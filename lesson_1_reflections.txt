@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Well, first it gives me a direct feeling about which area I have modified, and then I can check these areas in a quick view, I don't need to identify the same area. In the end, it will save much time until I find the bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It is a good way to review all idea from start to current, which can flow programmer's thoughts in whole; then, when you need to recover what you code before, it will be useful.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros:Git can commit in when programmer thinks it needs to, it is more logical than Google docs; Google docs can ignore the condition that programmer forgets to commit.
+    cons:Git's biggest problem is that if programmer forgets to commit, it will lose the change; Google docs cannot control the size of commit manually, so it is not logical enough sometimes.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think allowing saving multiple files in one commit is convenient to see the whole modifications in one time point.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    1. enter a repository; 2. type 'git log' to see the recent commits;
+    3. type 'git diff first_id second_id' to see the difference between two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control can identify the dead zone I don't notice when I am coding which is a efficient way to aviod bugs.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
