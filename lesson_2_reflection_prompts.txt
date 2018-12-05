@@ -28,4 +28,4 @@ Pros:
 * Makes you concentrate on the changes which actually contain conflicts.
 
 Cons:
-* Can't thnink of any definite ones. Maybe can make it easier to overlook the potentially dangerous situation where two person are working on the same file at the same time.
+* Can't think of any definite ones. Maybe can make it easier to overlook the potentially dangerous situation where two person are working on the same file at the same time.
