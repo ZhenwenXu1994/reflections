@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Enables you to keep the state of the remote repository at your hand while you work on your branch locally, and it is better to merge your commits to the remote locally before you push to the remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
